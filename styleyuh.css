@@ -1,0 +1,49 @@
+#divy {
+    background-color: rgb(147, 147, 255);
+}
+
+h1 {
+color: white;
+}
+
+h2 {
+    color: blue;
+}
+
+.spany { 
+    color: orange;
+}
+
+h3 {
+background-color: yellow;
+}
+
+a {
+    text-decoration:none ;
+}
+
+h4{
+color: yellow;
+background-color: green;
+
+}
+
+.redp{
+    color: red;
+}
+
+#greenid{
+    background-color: lightgreen;
+}
+
+h5{
+    color: red;
+}
+
+#divy2 {
+    background-color: yellow;
+}
+
+.spany2 { 
+    color: rgb(30, 1, 158);
+}
