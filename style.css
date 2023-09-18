@@ -1,0 +1,46 @@
+
+
+
+
+p {
+    color: #5eff00;
+    background-color:purple ;
+  }
+
+  
+  #H1id{
+color: red; 
+background-color: orange;
+  }
+
+
+h2{
+color: azure;
+background-color:darkblue ;
+}
+ 
+  h3 {
+color: black;
+background-color: aquamarine;
+  }
+
+  a:link {
+    color: #ff0000;
+  }
+  
+  a:visited {
+    color: #00ff4c;
+  }
+  a:hover {
+    color: #ffff00;
+  }        
+
+  #divyo {
+    background-color:green ;
+    
+    }
+
+    .spanyo {
+      color: teal;
+      background-color: rgb(255, 0, 179);
+    }
