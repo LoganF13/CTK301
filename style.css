@@ -1,27 +1,35 @@
-
-
+body{
+  background-image:url(freddy.jpg) ;
+}
 
 
 p {
     color: #5eff00;
     background-color:purple ;
+    font-family: Arial, Helvetica;
   }
 
   
   #H1id{
-color: red; 
-background-color: orange;
+color: rgb(255, 145, 0); 
+background-color: rgb(255, 51, 0);
+font-style: italic;
+font-weight: normal;
   }
 
 
 h2{
-color: azure;
+color: rgb(255, 179, 0);
 background-color:darkblue ;
+font-weight: normal;
+font-style: italic
 }
  
   h3 {
-color: black;
+color: rgb(255, 153, 0);
 background-color: aquamarine;
+font-weight: normal;
+font-style: italic
   }
 
   a:link {
@@ -44,3 +52,22 @@ background-color: aquamarine;
       color: teal;
       background-color: rgb(255, 0, 179);
     }
+
+.center{
+  text-align: center;
+}
+
+.justify{
+  text-align: justify;
+}
+
+.img {
+  border: 20px solid #000000;
+  background-color: #ffff00;
+  padding: 15px;
+}
+
+
+
+
+
