@@ -1,71 +1,100 @@
-body{
-  background-image:url(freddy.jpg) ;
+h1 {
+    border: 25px;
+    background-color: #5eff00;
+    padding: 25px;
+    font-weight: bold;
+    color: blue;
+    font-size: 30;
+    width: 400px;
 }
 
+h2 {
+    color: blue;
+    border: 25px;
+    background-color: #5eff00;
+    font-size: 23;
+    width: 400px;
+}
+
+body {
+background-color: turquoise;
+
+}
 
 p {
-    color: #5eff00;
-    background-color:purple ;
-    font-family: Arial, Helvetica;
-  }
-
-  
-  #H1id{
-color: rgb(255, 145, 0); 
-background-color: rgb(255, 51, 0);
-font-style: italic;
-font-weight: normal;
-  }
-
-
-h2{
-color: rgb(255, 179, 0);
-background-color:darkblue ;
-font-weight: normal;
-font-style: italic
-}
- 
-  h3 {
-color: rgb(255, 153, 0);
-background-color: aquamarine;
-font-weight: normal;
-font-style: italic
-  }
-
-  a:link {
-    color: #ff0000;
-  }
-  
-  a:visited {
-    color: #00ff4c;
-  }
-  a:hover {
-    color: #ffff00;
-  }        
-
-  #divyo {
-    background-color:green ;
+    color: blue;
     
-    }
-
-    .spanyo {
-      color: teal;
-      background-color: rgb(255, 0, 179);
-    }
-
-.center{
-  text-align: center;
+font-size: 19px;
 }
 
-.justify{
-  text-align: justify;
+nav li {
+    color: blue;
+    border: 1px solid black;
+    background-color: #5eff00;
+    width: 175px;
+    margin: 12px;
+    display: inline-block;
+    font-size: 23px;
+}
+nav li a {
+    display: block;
+    padding: 10px;
 }
 
-.img {
-  border: 20px solid #000000;
-  background-color: #ffff00;
-  padding: 15px;
+#div1 {
+    width: 25px;
+height: 40px;
 }
+
+.img1 {
+    width: 300px;
+    height: 425px;
+}
+
+.img2 {
+    width: 300px;
+    height: 425px; 
+}
+
+.img3 {
+    width: 625px;
+    height: 425px;
+}
+
+.img4 {
+    width: 400px;
+    height: 400px;
+}
+
+.img5 {
+    width: 300px;
+    height: 400px;
+}
+
+.img6 {
+    width: 300px;
+    height: 425px;
+}
+
+.img7 {
+    width: 300px;
+    height: 425px;
+}
+
+.img8 {
+    width: 450px;
+    height: 425px;
+}
+
+.img9 {
+    width: 350px;
+    height: 425px;
+}
+
+
+
+
+
 
 
 
