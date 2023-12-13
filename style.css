@@ -28,14 +28,14 @@ h2 {
 }
 
 body {
-background-color: turquoise;
-font-family: kalnia;
+background-color: rgb(55, 190, 170)}
 
-}
+
+    
+
 
 p {
     color: blue;
-    
 font-size: 19px;
 }
 
@@ -57,8 +57,52 @@ nav li a {
     display: block;
     padding: 10px;
 }
-
-.bi-alexa {
-width: 100px;
-height: 100px;
+a {
+    text-decoration: none;
+  }
+  
+.img1 {
+    width: 350px;
+    height: 550px;
 }
+
+.img2 {
+    width: 300px;
+    height: 425px;
+}
+
+.img3 {
+    width: 300px;
+    height: 425px;
+}
+
+.img4 {
+    width: 250px;
+    height: 425px;
+}
+
+.img5 {
+    width: 300px;
+    height: 425px;
+}
+
+.img6 {
+    width: 350px;
+    height: 425px;
+}
+
+.img7 {
+    width: 300px;
+    height: 425px;
+}
+
+.img8 {
+    width: 300px;
+    height: 425px;
+}
+
+
+
+
+
+
